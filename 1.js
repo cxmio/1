@@ -1,5 +1,7 @@
 var defaultWT = 1;
 
+   //Code from Neptune's Pride Calculator, found here http://home.hiwaay.net/~lkseitz/javascript/npcalc.shtml 
+
    CXMIO(rot);
 
    function showhidebuttons() {
