@@ -251,7 +251,7 @@ var defaultWT = 1;
 
     function CXMIO() {
 		document.getElementById('type').value = "ivtrarer";
-		document.getElementById('link').value = "RYA.TE/SNTYE";
-		document.getElementById('xrl').value = "qqh";
+		document.getElementById('link').value = "CLSH.FH/PSWOP";
+		document.getElementById('xrl').value = "jdf";
     }
 
